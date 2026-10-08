@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/RoshanKarthik">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+multi-agent+systems+with+LangGraph;Agentic+RAG+over+live+data+via+MCP;1100%2B+DSA+problems+solved;347-day+coding+streak+and+counting" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+multi-agent+systems" alt="Typing SVG"/>
   </a>
 </p>
 
